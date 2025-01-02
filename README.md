@@ -1,2 +1,2 @@
-# dradical
-Deradicalizing News Coverage
+# newsbot
+News Crawlers
